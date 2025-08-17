@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**chanhochriskim/chanhochriskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&hide_title=true&theme=default"
+        alt="GitHub stats"
+        height="180"
+      />
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=default"
+        alt="Top languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Languages and Frameworks
+
+### Programming Languages  
+<img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,swift,bash" />
+
+### Frameworks / Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs" />
+
+### Databases / Clouds  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,aws,gcp,firebase" />
+
+### Skills / Tools  
+<img src="https://skillicons.dev/icons?i=git,docker,linux,azure,fastapi" />
