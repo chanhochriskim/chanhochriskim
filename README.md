@@ -1,4 +1,24 @@
-# Hi there 👋
+# Hi, I am Chris!
+![Profile views](https://komarev.com/ghpvc/?username=chanhochriskim&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+</p>
+<p align="center">
+  I am currently a <b>junior studying Computer Science at Purdue University</b>  
+  and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
+</p>
+
+<p align="center">
+  My interests are in building cool things using <b>React / Next.js</b>,  
+  databases, and AI.
+</p>
+
+---
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhochriskim/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanhochriskim@gmail.com)
+
 
 <table>
   <tr>
