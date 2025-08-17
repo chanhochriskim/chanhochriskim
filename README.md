@@ -1,8 +1,4 @@
 # Hi, I am Chris!
-![Profile views](https://komarev.com/ghpvc/?username=chanhochriskim&label=Profile%20views&color=0e75b6&style=flat)
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
-</p>
 <p align="center">
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
   and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
