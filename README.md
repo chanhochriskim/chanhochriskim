@@ -3,12 +3,10 @@
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&hide_title=true&theme=default"
-        alt="GitHub stats"
-        height="180"
-      />
+      <!-- GitHub Profile Summary Stats -->
+        <img src="https://raw.githubusercontent.com/chanhochriskim/stats/master/generated/overview.svg#gh-light-mode-only" height="180" />
+        <img src="https://raw.githubusercontent.com/chanhochriskim/stats/master/generated/overview.svg#gh-dark-mode-only" height="180" />
+
     </td>
     <td>
       <!-- Top Languages -->
