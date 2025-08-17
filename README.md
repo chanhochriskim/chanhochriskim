@@ -1,4 +1,4 @@
-# Hi, I am Chris!
+# Hi, I am Chris! 😁
 <p align="center">
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
   and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
