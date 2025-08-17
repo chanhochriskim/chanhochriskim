@@ -1,4 +1,5 @@
-# Hi, I am Chris! 😁
+<h1 align="center">Hi, I am Chris! 😁</h1>
+
 <p align="center">
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
   and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
@@ -11,9 +12,16 @@
 
 ---
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhochriskim/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanhochriskim@gmail.com)
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chanhochriskim/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chanhochriskim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 
 <table>
