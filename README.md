@@ -24,20 +24,11 @@
 </p>
 
 
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats (jstrieb) -->
-      <img src="https://raw.githubusercontent.com/chanhochriskim/github-stats/master/generated/overview.svg#gh-light-mode-only" height="180" />
-      <img src="https://raw.githubusercontent.com/chanhochriskim/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="180" />
-    </td>
-    <td>
-      <!-- Languages (jstrieb) -->
-      <img src="https://raw.githubusercontent.com/chanhochriskim/github-stats/master/generated/languages.svg#gh-light-mode-only" height="180" />
-      <img src="https://raw.githubusercontent.com/chanhochriskim/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight" height="180" />
+</p>
+
 
 ---
 
