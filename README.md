@@ -23,26 +23,31 @@
   </a>
 </p>
 
+---
+
+<h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight" height="180" />
+  <a href="https://github.com/chanhochriskim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/chanhochriskim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
-
-
 
 ---
 
-## Skills
+## 🧠 Skills
 
-### Programming Languages  
+### 💻 Programming Languages  
 <img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,swift,bash" />
 
-### Frameworks / Libraries  
+### ⚙️ Frameworks / Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs" />
 
-### Databases / Clouds  
+### 🗄️ Databases / Clouds  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,aws,gcp,firebase" />
 
-### Skills / Tools  
+### 🧰 Tools & Others  
 <img src="https://skillicons.dev/icons?i=git,docker,linux,azure,fastapi" />
