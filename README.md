@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Overview</h3>
+<h3 align="center">GitHub Overview</h3>
 
 <p align="center">
   <a href="https://github.com/chanhochriskim">
@@ -38,16 +38,16 @@
 
 ---
 
-## 🧠 Skills
+## Skills
 
-### 💻 Programming Languages  
+### Programming Languages  
 <img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,swift,bash" />
 
-### ⚙️ Frameworks / Libraries  
+### Frameworks / Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs" />
 
-### 🗄️ Databases / Clouds  
+### Databases / Clouds  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,aws,gcp,firebase" />
 
-### 🧰 Tools & Others  
+### Tools & Others  
 <img src="https://skillicons.dev/icons?i=git,docker,linux,azure,fastapi" />
