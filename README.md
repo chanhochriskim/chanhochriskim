@@ -25,9 +25,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight" height="180" />
 </p>
+
 
 
 ---
