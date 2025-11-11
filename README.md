@@ -15,7 +15,9 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-
+<a href="https://www.linkedin.com/in/chanhochriskim/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:chanhochriskim@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -26,9 +28,7 @@
 <h3 align="center">GitHub Overview</h3>
 
 <p align="center">
-  <a href="https://github.com/chanhochriskim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanhochriskim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  </a>
+
   <a href="https://github.com/chanhochriskim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
