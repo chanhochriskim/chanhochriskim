@@ -15,9 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanhochriskim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <a href="mailto:chanhochriskim@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
