@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  My interests are in building cool things using <b>React / Next.js</b>,  
-  databases, and AI.
+  I enjoy exploring more about systems programming and building cool things using <b>React / Next.js</b>,  
+  databases, and AI!
 </p>
 
 ---
