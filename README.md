@@ -4,12 +4,6 @@
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
   and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
 </p>
-
-<p align="center">
-  I enjoy exploring more about systems programming and building cool things using <b>React / Next.js</b>,  
-  databases, and AI!
-</p>
-
 ---
 
 <h3 align="center">Connect with me:</h3>
