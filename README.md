@@ -4,9 +4,8 @@
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
   and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants.  
 </p>
----
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chanhochriskim/">
