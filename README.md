@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Chris! 😁</h1>
+<h1 align="center">Howdy, I am Chris! 🤠</h1>
 
 <p align="center">
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
