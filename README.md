@@ -2,7 +2,7 @@
 
 <p align="center">
   I am currently a <b>junior studying Computer Science at Purdue University</b>  
-  and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants, and will be joining Adobe for their Adobe Experience Manager team this summer 2026!  
+  and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants, and will be joining <b>Adobe</b> for their <b>Adobe Experience Manager</b> team this summer 2026!  
 </p>
 
 <h3 align="center">Connect with Me:</h3>
