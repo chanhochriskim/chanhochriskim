@@ -1,8 +1,7 @@
 <h1 align="center">Howdy, I am Chris! 🤠</h1>
 
 <p align="center">
-  I am currently a <b>junior studying Computer Science at Purdue University</b>  
-  and have worked at <b>KPMG</b> helping build the <b>Proposal Finder platform</b> for consultants, and will be joining <b>Adobe</b> for their <b>Adobe Experience Manager</b> team this summer 2026!  
+  Software Engineer Intern @ Adobe, KPMG
 </p>
 
 <h3 align="center">Connect with Me:</h3>
