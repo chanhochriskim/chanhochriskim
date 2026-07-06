@@ -27,17 +27,3 @@
 </p>
 
 ---
-
-## Skills
-
-### Programming Languages  
-<img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,swift,bash" />
-
-### Frameworks / Libraries  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs" />
-
-### Databases / Clouds  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,aws,gcp,firebase" />
-
-### Tools & Others  
-<img src="https://skillicons.dev/icons?i=git,docker,linux,azure,fastapi" />
