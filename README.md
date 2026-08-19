@@ -17,16 +17,3 @@
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
-
----
-
-<h3 align="center">GitHub Overview</h3>
-
-<p align="center">
-
-  <a href="https://github.com/chanhochriskim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanhochriskim&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
